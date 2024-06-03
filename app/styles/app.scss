@@ -1,0 +1,14 @@
+@import 'colors';
+@import 'reset';
+
+@import 'data-table';
+
+.container {
+    max-width: 1024px;
+    min-height: 100vh;
+    background: #f9f9f9;
+    margin: 0 auto;
+    padding: 5rem 2rem;
+}
+
+  
